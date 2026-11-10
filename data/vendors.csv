@@ -1,0 +1,4 @@
+vendor_id,name,vat_number,iban,payment_terms_days,status
+V001,Brouwers Logistiek NV,BE0412345678,BE71096123456769,30,active
+V002,Delcourt Emballages SA,BE0498765432,BE68539007547034,60,active
+V003,TechParts GmbH,DE811234567,DE89370400440532013000,30,blocked

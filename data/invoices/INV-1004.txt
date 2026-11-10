@@ -1,0 +1,8 @@
+RECHNUNG INV-1004
+Lieferant: TechParts GmbH  (USt-IdNr. DE811234567)
+IBAN: DE89370400440532013000
+Datum: 2026-11-03
+Bestellnummer: PO-2026-0423
+Beschreibung: Ersatzteile Förderband
+Menge: 10   Einzelpreis: 240,00 EUR
+Gesamt netto: 2.400,00 EUR

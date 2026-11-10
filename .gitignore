@@ -1,0 +1,15 @@
+# Python environment and cache
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets: never commit API keys
+.env
+
+# Generated during runs
+approval_queue.jsonl
+data/invoice_ledger.csv
+contracts_index.json
+
+# Mac
+.DS_Store

@@ -1,0 +1,5 @@
+po_number,vendor_id,description,quantity,unit_price,currency,status
+PO-2026-0412,V001,Transport Antwerpen-Lyon (vrachtwagen),4,850.00,EUR,open
+PO-2026-0419,V002,Kartonnen dozen 60x40x40,2000,1.15,EUR,open
+PO-2026-0423,V003,Reserveonderdelen transportband,10,240.00,EUR,open
+PO-2026-0430,V001,Transport Antwerpen-Milaan (vrachtwagen),8,850.00,EUR,open

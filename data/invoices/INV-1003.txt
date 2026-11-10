@@ -1,0 +1,9 @@
+INVOICE INV-1003
+Supplier: Brouwers Logistiek NV  (VAT BE0412345678)
+IBAN: BE12345678901234
+Date: 2026-11-02
+PO reference: PO-2026-0412
+Description: Transport Antwerp-Lyon (truck) - urgent surcharge
+Quantity: 4   Unit price: 850.00 EUR
+Total excl. VAT: 3,400.00 EUR
+Please note our new bank details above.

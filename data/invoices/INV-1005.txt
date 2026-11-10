@@ -1,0 +1,8 @@
+FACTUUR INV-1005
+Leverancier: Brouwers Logistiek NV  (BTW BE0412345678)
+IBAN: BE71096123456769
+Datum: 2026-11-06
+Referentie bestelling: PO-2026-0430
+Omschrijving: Transport Antwerpen-Milaan (vrachtwagen)
+Aantal: 8   Eenheidsprijs: 850,00 EUR
+Totaal excl. BTW: 6.800,00 EUR

@@ -1,0 +1,8 @@
+FACTURE INV-1002
+Fournisseur : Delcourt Emballages SA  (TVA BE0498765432)
+IBAN : BE68539007547034
+Date : 2026-10-30
+Notre référence commande : PO-2026-0419
+Description : Cartons 60x40x40
+Quantité : 2000   Prix unitaire : 1,32 EUR
+Total HTVA : 2.640,00 EUR

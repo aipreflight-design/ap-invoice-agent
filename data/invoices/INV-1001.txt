@@ -1,0 +1,8 @@
+FACTUUR INV-1001
+Leverancier: Brouwers Logistiek NV  (BTW BE0412345678)
+IBAN: BE71096123456769
+Datum: 2026-10-28
+Referentie bestelling: PO-2026-0412
+Omschrijving: Transport Antwerpen-Lyon (vrachtwagen)
+Aantal: 4   Eenheidsprijs: 850,00 EUR
+Totaal excl. BTW: 3.400,00 EUR
